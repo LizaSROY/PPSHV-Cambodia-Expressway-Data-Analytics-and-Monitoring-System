@@ -1,4 +1,4 @@
-# PPSHV Expressway Data Analytics & Monitoring System
+<img width="1159" height="654" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/89494748-4eeb-4b80-a359-683bd37a0c29" /># PPSHV Expressway Data Analytics & Monitoring System
 
 ## Project Overview
 
@@ -20,7 +20,8 @@ This project analyzes Cambodia's **PPSHV Expressway** toll transaction data for 
 
 ## Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/Overview%20Dashboard.png)
+![Executive Overview](<img width="1159" height="654" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/50fbe72d-2426-4da9-8040-7f77732ec4ca" />
+)
 
 ## Traffic & Operations
 
