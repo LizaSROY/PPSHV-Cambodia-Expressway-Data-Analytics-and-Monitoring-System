@@ -20,19 +20,19 @@ This project analyzes Cambodia's **PPSHV Expressway** toll transaction data for 
 
 ## Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/Overview%20Dashboard.png)
+![Executive Overview](Dashboards/Overview%20Dashboard.png)
 
 ## Traffic & Operations
 
-![Traffic & Operations](Dashboard_Screenshots/Traffic%20%26%20Operations.png)
+![Traffic & Operations](Dashboards/Traffic%20%26%20Operations.png)
 
 ## Data Quality Monitor
 
-![Data Quality Monitor](Dashboard_Screenshots/Data%20Quality.png)
+![Data Quality Monitor](Dashboards/Data%20Quality.png)
 
 ## Revenue Analysis
 
-![Revenue Analysis](Dashboard_Screenshots/Revenue%20Analysis.png)
+![Revenue Analysis](Dashboards/Revenue%20Analysis.png)
 
 ---
 
